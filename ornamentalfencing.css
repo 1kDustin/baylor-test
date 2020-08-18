@@ -29,7 +29,7 @@
   
   .hero-section{
     align-items: flex-start;
-    background-image: url(images/Textures/weatheredFence.jpg);
+    background-color: rgb(243, 238, 222);
     display: flex;
     min-height: 100%;
     justify-content: center;
@@ -117,4 +117,17 @@
   }
 
 
-  
+  .table-custom {
+    height: 50%;
+    width: 100%;
+    margin-bottom: 1000px;
+  }
+
+  tbody tr td a {
+    font-size: 20px;
+    font-weight: bolder;
+  }
+
+  tbody tr td a:hover {
+    color: red;
+  }
