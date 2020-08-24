@@ -25,7 +25,7 @@ http://www.templatemo.com/tm-515-eatery
 .navbar-custom a {
   float: left;
   font-size: 18px;
-  color: white;
+  color: rgb(0, 0, 0);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -40,7 +40,7 @@ http://www.templatemo.com/tm-515-eatery
   font-size: 16px;  
   border: none;
   outline: none;
-  color: white;
+  color: black;
   padding: 14px 16px;
   background-color: inherit;
   font-family: inherit;
@@ -77,7 +77,6 @@ http://www.templatemo.com/tm-515-eatery
 .drop-down:hover .drop-down-content {
   display: block;
 }
-
 
 
   /*---------------------------------------
@@ -368,7 +367,7 @@ http://www.templatemo.com/tm-515-eatery
     }
 
     .custom-navbar.top-nav-collapse {
-      background: rgba(128, 128, 128, 0.671);
+      background: rgba(128, 128, 128, 0.383);
       -webkit-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       -moz-box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
       box-shadow: 0 1px 30px rgba(0, 0, 0, 0.1);
